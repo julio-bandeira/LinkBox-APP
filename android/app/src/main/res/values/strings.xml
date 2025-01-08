@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">LinkBox</string>
+    <string name="title_activity_main">LinkBox</string>
+    <string name="package_name">app.linkbox.com</string>
+    <string name="custom_url_scheme">app.linkbox.com</string>
+</resources>

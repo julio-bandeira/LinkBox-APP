@@ -1,0 +1,59 @@
+{
+    "pt": {
+        "verifyAccess": {
+            "failGetDb": "Falha ao validar Dados"
+        },
+        "html": {
+            "menu": {
+                "title": "Menu",
+                "collect": "Coleta",
+                "inventory": "Inventário",
+                "items": "Itens",
+                "readTest": "Teste de Leitura",
+                "settings": "Configuração",
+                "logout": "Sair"
+            },
+            "footer": {
+                "version": "Versão:"
+            }
+        }
+    },
+    "en": {
+        "verifyAccess": {
+            "failGetDb": "Failed to validate data"
+        },
+        "html": {
+            "menu": {
+                "title": "Menu",
+                "collect": "Collect",
+                "inventory": "Inventory",
+                "items": "Items",
+                "readTest": "Reading Test",
+                "settings": "Settings",
+                "logout": "Logout"
+            },
+            "footer": {
+                "version": "Version:"
+            }
+        }
+    },
+    "es": {
+        "verifyAccess": {
+            "failGetDb": "No se pudieron validar los datos"
+        },
+        "html": {
+            "menu": {
+                "title": "Menú",
+                "collect": "Colecta",
+                "inventory": "Inventario",
+                "items": "Elementos",
+                "readTest": "Prueba de Lectura",
+                "settings": "Ajustes",
+                "logout": "Cerrar sesión"
+            },
+            "footer": {
+                "version": "Versión:"
+            }
+        }
+    }
+}
